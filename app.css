@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/13/18/tile-cupcake-pattern-with-polka-dots-on-pastel-vector-4751318.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
+
+.cupcakeimage {
+    position: absolute;
+    opacity: 0.5;
+}
+
+.cardContainer{
+    background-color: rgb(35, 9, 59);
+    height: 1800px;
+    width: 1200px;
+}
+
+.col{
+    
+}
