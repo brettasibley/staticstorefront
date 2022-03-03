@@ -17,5 +17,26 @@ body {
 }
 
 .col{
+    position: relative;
+}
+
+.card-body {
+    height: 200px
+}
+
+.card-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: orange;
+}
+
+.card-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(141, 92, 27);
+}
+
+.container {
+    position: relative;
     
+
 }
